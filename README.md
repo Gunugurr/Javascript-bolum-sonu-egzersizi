@@ -1,1 +1,4 @@
-# Javascript-bolum-sonu-egzersizi
+# Javascript Bölüm Sonu Egzersizi
+
+***
+
